@@ -1,1 +1,1 @@
-export const DB_NAME="bingtube";
+export const DB_NAME="bingtubebackend";
